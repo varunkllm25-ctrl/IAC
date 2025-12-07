@@ -1,0 +1,9 @@
+# Core MCP and FastAPI dependencies
+mcp>=1.0.0
+fastmcp>=0.1.0
+fastapi>=0.100.0
+uvicorn>=0.20.0
+
+# Utility packages
+python-multipart>=0.0.6
+aiofiles>=23.0.0
